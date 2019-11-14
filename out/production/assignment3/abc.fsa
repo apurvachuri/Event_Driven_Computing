@@ -1,6 +1,0 @@
-state q1 65 88
-state q3 401 16
-transition q1 a q1
-transition q3 a q1
-initial q1
-final q3

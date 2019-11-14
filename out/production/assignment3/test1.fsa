@@ -1,4 +1,0 @@
-state q2 470 148
-transition q2 cv q2
-state q1 130 164
-transition q1 aa q2
