@@ -1,0 +1,6 @@
+state q2 465 130
+transition q2 b q1
+state q1 157 130
+transition q1 a q2
+initial q1
+final q2
